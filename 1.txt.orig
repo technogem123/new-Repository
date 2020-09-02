@@ -1,7 +1,7 @@
 this is my master file
-
+<<<<<<< HEAD
 this is updated master file
-
+=======
 this is branch2 commit
 this is branch3 commit
-
+>>>>>>> branch3
